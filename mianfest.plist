@@ -19,7 +19,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>https://pchy-update.oss-cn-hangzhou.aliyuncs.com/iOS/icon-1024.png</string>  
+                    <string>http://ylc.wxzxt.net:12306/icon-180.png</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>  
                     <key>url</key>  
-                    <string>https://pchy-update.oss-cn-hangzhou.aliyuncs.com/iOS/icon-1024.png</string>  
+                    <string>http://ylc.wxzxt.net:12306/icon-180.png</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
