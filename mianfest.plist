@@ -11,7 +11,7 @@
                     <key>kind</key>  
                     <string>software-package</string>  
                     <key>url</key>  
-                    <string>http://ylc.wxzxt.net/ylc-090418.ipa</string>  
+                    <string>http://ylc.wxzxt.net:12306/ylc-090418.ipa</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
